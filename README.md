@@ -2,14 +2,16 @@
 
 Visualization Libraries for Python: 
 
-Matplotlib 
-
-Seaborn 
-
-Plotly 
-
-Bokeh 
-
-Pygal 
-
-Altair
+    Matplotlib 
+    
+    Seaborn 
+    
+    PyCaret
+    
+    Plotly 
+    
+    Bokeh 
+    
+    Pygal 
+    
+    Altair
